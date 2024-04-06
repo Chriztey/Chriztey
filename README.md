@@ -24,6 +24,10 @@ Project Showcase: Through GitHub repositories, I showcase my journey as a mobile
 
 Let's Code Together! 💻
 
+
+![Uploading bearlaptop.png…]()
+
+
 <!--
 **Chriztey/Chriztey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
