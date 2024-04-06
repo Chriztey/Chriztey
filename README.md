@@ -25,7 +25,6 @@ Project Showcase: Through GitHub repositories, I showcase my journey as a mobile
 Let's Code Together! 💻
 
 
-![Uploading bearlaptop.png…]()
 
 
 <!--
