@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGlrYmt5NjNoM3VsZWRvYndwdTU2ODdyMjl2cDBkdWN0cjluOTE1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llarwdtFqG63IlqUR1/giphy.gif" width="400" height="300"/>
+</div>
+
 ### Hi there 👋
 ### As a passionate learner transitioning into mobile development with expertise in finance, I'm excited to leverage GitHub to expand my skills and contribute to innovative projects. Here's a brief overview of my journey:
 
@@ -20,12 +24,23 @@ Project Showcase: Through GitHub repositories, I showcase my journey as a mobile
 
 👯 Connect with me to discuss collaborations, learning opportunities, or anything related to mobile development and finance.
 
-💻 christieteydaddy@gmail.com
+:mailbox: christieteydaddy@gmail.com
+
+### :hammer_and_wrench: Languages and Tools :
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="40" height="40"/>&nbsp;
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyX39L1u4rRGlDYjUc9Sav5fC0IxZNywPQP8NbixsaM5mCOvaD44BP4RI_w7AKh-1tWc8&usqp=CAU" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40" height="40"/>
+
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chriztey&theme=dark&background=000000)](https://git.io/streak-stats)
 
 Let's Code Together! 💻
 
-
-
+<div align="center">
+<img src= "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG0xOXg0aXB5cjl6MGRnZHdlaWxobmM4cXdwaWtrbWhla2RsbjkxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1sgetPM00wWqJpVUTl/giphy.gif" height = "500px"/>
+</div>
 
 <!--
 **Chriztey/Chriztey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
