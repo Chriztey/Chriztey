@@ -36,10 +36,14 @@ Project Showcase: Through GitHub repositories, I showcase my journey as a mobile
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chriztey&theme=dark&background=000000)](https://git.io/streak-stats)
 
-Let's Code Together! 💻
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chriztey&theme=tokyonight)
+
+<h1> Let's Code Together! 💻 </h1>
+
+
 
 <div align="center">
-<img src= "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG0xOXg0aXB5cjl6MGRnZHdlaWxobmM4cXdwaWtrbWhla2RsbjkxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1sgetPM00wWqJpVUTl/giphy.gif" height = "500px"/>
+<img src= "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2E0MDM4ZW9qaWRpcjR5d3Z0aTNjMHRjNWp0MDA5d2EzZHN3MGV3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Yqiw4XZ1LhMRRCL2ZO/giphy.gif" height = "500px"/>
 </div>
 
 <!--
